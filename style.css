@@ -62,6 +62,6 @@
 }
 
 .gallery .image-container .image:hover img{
-    transform: 
+    transform: scale(1.4);
 }
 
